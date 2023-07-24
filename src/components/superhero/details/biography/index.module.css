@@ -1,0 +1,4 @@
+.superhero__biography {
+    display: flex;
+    flex-direction: column;
+}

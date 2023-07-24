@@ -1,0 +1,17 @@
+.superhero__section {
+    display: flex;
+    max-height: 480px;
+}
+
+.superhero__section--w-full {
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.superhero__section--row {
+    flex-direction: row;
+}
+
+.superhero__section--column {
+    flex-direction: column;
+}

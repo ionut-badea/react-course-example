@@ -1,0 +1,4 @@
+.superhero__appearance {
+    display: flex;
+    flex-direction: column;
+}

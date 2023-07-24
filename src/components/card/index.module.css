@@ -1,0 +1,7 @@
+.card {
+    display: flex;
+    border: 1px solid var(--secondary);
+    padding: 1rem;
+    border-radius: 1rem;
+    width: 100%;
+}

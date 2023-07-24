@@ -1,0 +1,17 @@
+.search {
+    background-color: var(--dark);
+    border: 1px solid var(--secondary);
+    padding: 1rem;
+    color: var(--light);
+    font-size: large;
+    border-radius: 1rem;
+}
+
+.search::placeholder {
+    font-size: large;
+    color: var(--light);
+}
+
+.search:focus-visible {
+    outline: none;
+}

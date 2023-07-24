@@ -1,0 +1,12 @@
+.superhero__details__list__item {
+    display: flex;
+}
+
+.superhero__details__list__item__title {
+    font-weight: 700;
+    min-width: 10rem;
+}
+
+.superhero__details__list__item__value {
+    color: var(--accent);
+}

@@ -1,0 +1,4 @@
+.superhero__work {
+    display: flex;
+    flex-direction: column;
+}

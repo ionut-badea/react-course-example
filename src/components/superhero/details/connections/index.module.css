@@ -1,0 +1,4 @@
+.superhero__connections {
+    display: flex;
+    flex-direction: column;
+}

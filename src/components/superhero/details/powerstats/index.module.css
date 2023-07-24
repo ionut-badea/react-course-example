@@ -1,0 +1,4 @@
+.superhero__powerstats {
+    display: flex;
+    flex-direction: column;
+}

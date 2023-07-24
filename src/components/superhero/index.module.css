@@ -1,0 +1,16 @@
+.superhero {
+    display: flex;
+    padding: 1rem 1.5rem;
+}
+
+
+
+@media only screen and (min-width: 360px) {
+    .superhero__sections {
+        flex-grow: 1;
+    }
+}
+
+
+
+

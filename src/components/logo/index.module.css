@@ -1,0 +1,10 @@
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo__text {
+    font-size: x-large;
+    font-weight: 600;
+    color: #61dbfb;
+}
